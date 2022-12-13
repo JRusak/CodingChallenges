@@ -1,5 +1,4 @@
 import pygame
-from Tools.box import Box
 
 WHITE = (255, 255, 255)
 RED = (255, 0, 0)

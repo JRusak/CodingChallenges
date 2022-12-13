@@ -1,5 +1,5 @@
 import pygame
-from Tools.box import Box
+from projects.Tools.box import Box
 
 
 class Sponge(Box):
